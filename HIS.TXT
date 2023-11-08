@@ -1,0 +1,20 @@
+
+Bill No.: 1
+Customer ID: 0
+Name: chips Quantity: 2 Price: 50
+Name: Cookies Quantity: 1 Price: 150
+
+Bill No.: 2
+Customer ID: 0
+Name: Juice Quantity: 2 Price: 100
+Name: chips Quantity: 2 Price: 50
+Name: cookies Quantity: 3 Price: 90
+
+Bill No.: 4
+Customer ID: 0
+Name: tt Quantity: 5 Price: 225
+Name: yy Quantity: 7 Price: 21
+
+Bill No.: 8
+Customer ID: 0
+Name: teyt Quantity: 6 Price: 534
